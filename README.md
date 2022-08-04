@@ -2,7 +2,7 @@
 
 
 
-fun main(args: Array<String>) {
+    fun main(args: Array<String>) {
     val scanner = Scanner(System.`in`)
     var readWriteList1 = ReadWriteList<String>()
     var readOnlyList1 = ReadOnlyList<String>()
